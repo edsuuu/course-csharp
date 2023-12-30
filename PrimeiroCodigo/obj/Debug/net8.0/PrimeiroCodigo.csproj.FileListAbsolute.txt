@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\bin\Debug\net8.0\PrimeiroCodigo.exe
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\bin\Debug\net8.0\PrimeiroCodigo.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\bin\Debug\net8.0\PrimeiroCodigo.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\bin\Debug\net8.0\PrimeiroCodigo.dll
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\bin\Debug\net8.0\PrimeiroCodigo.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\PrimeiroCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\PrimeiroCodigo.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\PrimeiroCodigo.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\PrimeiroCodigo.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\PrimeiroCodigo.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\PrimeiroCodigo.dll
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\refint\PrimeiroCodigo.dll
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\PrimeiroCodigo.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\PrimeiroCodigo.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\PrimeiroCodigo\obj\Debug\net8.0\ref\PrimeiroCodigo.dll
