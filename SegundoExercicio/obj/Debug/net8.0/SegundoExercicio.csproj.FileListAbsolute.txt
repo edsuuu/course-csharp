@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.exe
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.dll
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\bin\Debug\net8.0\SegundoExercicio.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.dll
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\refint\SegundoExercicio.dll
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\SegundoExercicio.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\SegundoExercicio\obj\Debug\net8.0\ref\SegundoExercicio.dll

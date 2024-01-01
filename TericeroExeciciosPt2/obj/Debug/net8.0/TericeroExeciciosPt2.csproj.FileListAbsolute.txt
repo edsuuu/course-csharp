@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\bin\Debug\net8.0\TericeroExeciciosPt2.exe
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\bin\Debug\net8.0\TericeroExeciciosPt2.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\bin\Debug\net8.0\TericeroExeciciosPt2.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\bin\Debug\net8.0\TericeroExeciciosPt2.dll
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\bin\Debug\net8.0\TericeroExeciciosPt2.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\TericeroExeciciosPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\TericeroExeciciosPt2.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\TericeroExeciciosPt2.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\TericeroExeciciosPt2.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\TericeroExeciciosPt2.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\TericeroExeciciosPt2.dll
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\refint\TericeroExeciciosPt2.dll
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\TericeroExeciciosPt2.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\TericeroExeciciosPt2.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\TericeroExeciciosPt2\obj\Debug\net8.0\ref\TericeroExeciciosPt2.dll
