@@ -21,17 +21,23 @@ namespace PrimeiroProjeto
             double x = 10.35784;
 
             Console.WriteLine(x);
+            //para definir casas decimais a gente ultiliza o toSTRING(F2) O 2 seria quantas casas decimais eu iria querer
             Console.WriteLine(x.ToString("F2"));
             Console.WriteLine(x.ToString("F4"));
+
+            //para usar o culture precisa definir o using system.globalization la em cima do codigo q seria uma biblioteca 
             Console.WriteLine(x.ToString("F2", CultureInfo.InvariantCulture));
 
-
+            //tem duas maneiras de concatenar uma é usando o $ na frente e para variaveis usar as chaves 
 
             Console.WriteLine($"A idade dessa pessoa é {idade} e tem altura de {altura} é do sexo {sexo}");
+            //a outra é concatenar com os + 
 
+            Console.WriteLine($"A idade dessa pessoa é " + idade + " e tem altura de " + altura + " e é do sexo " + sexo);
 
-            Console.WriteLine("Hello World!");
-            Console.Write("para n ter quebra de tinha");
+            Console.WriteLine("writeline é para quebra de linha");
+            Console.Write("write é para n ter quebra de linha");
+            Console.Write(", iria pegar sequencia assim");
             //Console.ReadKey();
             Console.ReadLine();
         }
