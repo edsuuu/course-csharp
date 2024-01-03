@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TericeroExeciciosPt2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e78029f3947a0dd6b49ea4f6500efb2fdcd2cec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82640279ed70060caeb80eee944263040e53e16a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TericeroExeciciosPt2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TericeroExeciciosPt2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
