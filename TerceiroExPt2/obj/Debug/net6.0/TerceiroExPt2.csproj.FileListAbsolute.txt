@@ -1,0 +1,15 @@
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\TerceiroExPt2.csproj.AssemblyReference.cache
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\TerceiroExPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\TerceiroExPt2.AssemblyInfoInputs.cache
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\TerceiroExPt2.AssemblyInfo.cs
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\TerceiroExPt2.csproj.CoreCompileInputs.cache
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\bin\Debug\net6.0\TerceiroExPt2.exe
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\bin\Debug\net6.0\TerceiroExPt2.deps.json
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\bin\Debug\net6.0\TerceiroExPt2.runtimeconfig.json
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\bin\Debug\net6.0\TerceiroExPt2.dll
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\bin\Debug\net6.0\TerceiroExPt2.pdb
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\TerceiroExPt2.dll
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\refint\TerceiroExPt2.dll
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\TerceiroExPt2.pdb
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\TerceiroExPt2.genruntimeconfig.cache
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\TerceiroExPt2\obj\Debug\net6.0\ref\TerceiroExPt2.dll

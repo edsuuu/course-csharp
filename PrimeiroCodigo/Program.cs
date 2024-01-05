@@ -13,6 +13,7 @@ namespace curso
             double A, B, C;
             
             //Math.Sqrt é ultilizado para calcular a raiz quadrada de algum número
+            //Math.Sqrt é para calcular raiz quadrada
             A = Math.Sqrt(x);
             B = Math.Sqrt(y);
             C = Math.Sqrt(25.0);

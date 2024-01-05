@@ -1,0 +1,5 @@
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\LerMedia\obj\Debug\net6.0\LerMedia.csproj.AssemblyReference.cache
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\LerMedia\obj\Debug\net6.0\LerMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\LerMedia\obj\Debug\net6.0\LerMedia.AssemblyInfoInputs.cache
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\LerMedia\obj\Debug\net6.0\LerMedia.AssemblyInfo.cs
+C:\Users\edson.dasilva.ext\Documents\github\course-csharp\LerMedia\obj\Debug\net6.0\LerMedia.csproj.CoreCompileInputs.cache
