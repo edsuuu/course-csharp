@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TerceiroExercicio",
-    "\\TericeroExeciciosPt2"
+    "\\CalcSegundos",
+    "\\CalculoArea",
+    "\\PrimeiroExercicio"
   ],
-  "SelectedNode": "\\TericeroExeciciosPt2\\Program.cs",
+  "SelectedNode": "\\CalcSegundos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\bin\Debug\net8.0\ExercicioQuarto.exe
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\bin\Debug\net8.0\ExercicioQuarto.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\bin\Debug\net8.0\ExercicioQuarto.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\bin\Debug\net8.0\ExercicioQuarto.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\bin\Debug\net8.0\ExercicioQuarto.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\ExercicioQuarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\ExercicioQuarto.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\ExercicioQuarto.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\ExercicioQuarto.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\ExercicioQuarto.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\ExercicioQuarto.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\refint\ExercicioQuarto.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\ExercicioQuarto.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\ExercicioQuarto.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioQuarto\obj\Debug\net8.0\ref\ExercicioQuarto.dll
