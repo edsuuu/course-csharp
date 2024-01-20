@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\bin\Debug\net8.0\ExpressaoComparativa.exe
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\bin\Debug\net8.0\ExpressaoComparativa.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\bin\Debug\net8.0\ExpressaoComparativa.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\bin\Debug\net8.0\ExpressaoComparativa.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\bin\Debug\net8.0\ExpressaoComparativa.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\ExpressaoComparativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\ExpressaoComparativa.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\ExpressaoComparativa.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\ExpressaoComparativa.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\ExpressaoComparativa.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\ExpressaoComparativa.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\refint\ExpressaoComparativa.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\ExpressaoComparativa.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\ExpressaoComparativa.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExpressaoComparativa\obj\Debug\net8.0\ref\ExpressaoComparativa.dll

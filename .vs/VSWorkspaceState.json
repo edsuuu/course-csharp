@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CalcSegundos",
-    "\\CalculoArea",
-    "\\PrimeiroExercicio"
+    "\\FormuladeBaskara",
+    "\\LerMedia",
+    "\\PrimeiroCodigo"
   ],
-  "SelectedNode": "\\CalcSegundos\\Program.cs",
+  "SelectedNode": "\\PrimeiroCodigo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
