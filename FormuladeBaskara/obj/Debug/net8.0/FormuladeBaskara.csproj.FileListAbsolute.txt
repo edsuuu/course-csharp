@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\bin\Debug\net8.0\FormuladeBaskara.exe
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\bin\Debug\net8.0\FormuladeBaskara.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\bin\Debug\net8.0\FormuladeBaskara.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\bin\Debug\net8.0\FormuladeBaskara.dll
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\bin\Debug\net8.0\FormuladeBaskara.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\FormuladeBaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\FormuladeBaskara.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\FormuladeBaskara.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\FormuladeBaskara.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\FormuladeBaskara.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\FormuladeBaskara.dll
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\refint\FormuladeBaskara.dll
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\FormuladeBaskara.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\FormuladeBaskara.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\FormuladeBaskara\obj\Debug\net8.0\ref\FormuladeBaskara.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormuladeBaskara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13fb71144f661347b0cf79ea1d10a132935ba0f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93a84a316d6299fb11ae9f69dbb12b5ceb722bc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormuladeBaskara")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormuladeBaskara")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

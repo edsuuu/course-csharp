@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\ExercicioEmpate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\ExercicioEmpate.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\ExercicioEmpate.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\ExercicioEmpate.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\ExercicioEmpate.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\bin\Debug\net8.0\ExercicioEmpate.exe
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\bin\Debug\net8.0\ExercicioEmpate.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\bin\Debug\net8.0\ExercicioEmpate.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\bin\Debug\net8.0\ExercicioEmpate.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\bin\Debug\net8.0\ExercicioEmpate.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\ExercicioEmpate.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\refint\ExercicioEmpate.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\ExercicioEmpate.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\ExercicioEmpate.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioEmpate\obj\Debug\net8.0\ref\ExercicioEmpate.dll
