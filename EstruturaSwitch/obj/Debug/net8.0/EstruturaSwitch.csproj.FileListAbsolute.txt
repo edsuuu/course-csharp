@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.exe
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.dll
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.dll
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\refint\EstruturaSwitch.dll
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\obj\Debug\net8.0\ref\EstruturaSwitch.dll

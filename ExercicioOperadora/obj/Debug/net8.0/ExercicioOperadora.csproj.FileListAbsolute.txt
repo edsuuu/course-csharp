@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\bin\Debug\net8.0\ExercicioOperadora.exe
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\bin\Debug\net8.0\ExercicioOperadora.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\bin\Debug\net8.0\ExercicioOperadora.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\bin\Debug\net8.0\ExercicioOperadora.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\bin\Debug\net8.0\ExercicioOperadora.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\ExercicioOperadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\ExercicioOperadora.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\ExercicioOperadora.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\ExercicioOperadora.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\ExercicioOperadora.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\ExercicioOperadora.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\refint\ExercicioOperadora.dll
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\ExercicioOperadora.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\ExercicioOperadora.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\ExercicioOperadora\obj\Debug\net8.0\ref\ExercicioOperadora.dll

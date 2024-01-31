@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\EstruturaIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\EstruturaIf.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\EstruturaIf.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\EstruturaIf.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\EstruturaIf.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\bin\Debug\net8.0\EstruturaIf.exe
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\bin\Debug\net8.0\EstruturaIf.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\bin\Debug\net8.0\EstruturaIf.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\bin\Debug\net8.0\EstruturaIf.dll
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\bin\Debug\net8.0\EstruturaIf.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\EstruturaIf.dll
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\refint\EstruturaIf.dll
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\EstruturaIf.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\EstruturaIf.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaSwitch\EstruturaIf\obj\Debug\net8.0\ref\EstruturaIf.dll
