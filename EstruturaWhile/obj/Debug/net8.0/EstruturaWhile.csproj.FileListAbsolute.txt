@@ -1,0 +1,15 @@
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.AssemblyInfoInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.AssemblyInfo.cs
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.sourcelink.json
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.exe
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.deps.json
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.runtimeconfig.json
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.dll
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\bin\Debug\net8.0\EstruturaWhile.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.dll
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\refint\EstruturaWhile.dll
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.pdb
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\EstruturaWhile.genruntimeconfig.cache
+C:\Users\wN\Documents\GitHub\course-csharp\EstruturaWhile\obj\Debug\net8.0\ref\EstruturaWhile.dll

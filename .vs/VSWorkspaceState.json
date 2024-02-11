@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FormuladeBaskara",
-    "\\LerMedia",
-    "\\PrimeiroCodigo"
+    "\\EstruturaRepetitiva",
+    "\\EstruturaWhile"
   ],
-  "SelectedNode": "\\PrimeiroCodigo\\Program.cs",
+  "SelectedNode": "\\EstruturaSwitch",
   "PreviewInSolutionExplorer": false
 }
